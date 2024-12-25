@@ -1,4 +1,4 @@
-# **Medical Appointment No Show Dataset Analysis**
+# **Movies Dataset Analysis**
 
 | Contents 											 	   	|
 | -------- 											 	   	|
